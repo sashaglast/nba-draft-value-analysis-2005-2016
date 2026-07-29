@@ -33,7 +33,8 @@ Dashboard
 <img width="898" height="548" alt="dashboard1" src="https://github.com/user-attachments/assets/bae187e3-3b07-44a5-8960-6a01749431da" />
 <img width="759" height="491" alt="dashboard2" src="https://github.com/user-attachments/assets/d0d8d7a9-ea2c-44b8-bf14-24ba6a8f33da" />
 
-Key Findings:
+Key Findings:  
+
 Lottery selections produced the highest average career Win Shares.  
 
 Chris Paul generated the highest Value Above Expected in the dataset.  
@@ -42,7 +43,9 @@ Draft position is negatively correlated with career Win Shares, but several mid-
 
 Career outcomes vary considerably even among lottery picks.
 
+
 Limitations:
+
 Career statistics are cumulative through the 2021–22 season.  
 
 Earlier draft classes have had more time to accumulate Win Shares.  
@@ -51,6 +54,7 @@ Win Shares represent an estimate of player contribution rather than a direct cou
 
 
 Future Improvements:
+
 Compare players after their first six NBA seasons.  
 
 Incorporate salary data to evaluate return on investment.  
